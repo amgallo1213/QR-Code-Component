@@ -3,19 +3,25 @@
     font-family: 'Outfit', sans-serif;
 }
 #qr-code-main   {
-    width: 350px;
+    width: 325px;
     background-color: white;
+    border-radius: 5%;
+    margin-left: 200px;
+    margin-top: 200px;
 }
 img {
     width: 300px;
     border-radius: 5%;
+    padding: 10px;
 
 }
 #improve    {
     font-weight: 700;
+    padding: 10px;
 }
 #scan   {
     font-weight: 400;
     font-size: 15px;
     color:  hsl(220, 15%, 55%);
+    padding: 10px;
 }
