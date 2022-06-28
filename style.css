@@ -2,9 +2,14 @@
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
 }
+#qr-code-main   {
+    width: 350px;
+    background-color: white;
+}
 img {
     width: 300px;
     border-radius: 5%;
+
 }
 #improve    {
     font-weight: 700;
