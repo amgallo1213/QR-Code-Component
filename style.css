@@ -1,3 +1,16 @@
 #main   {
     background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+img {
+    width: 300px;
+    border-radius: 5%;
+}
+#improve    {
+    font-weight: 700;
+}
+#scan   {
+    font-weight: 400;
+    font-size: 15px;
+    color:  hsl(220, 15%, 55%);
 }
